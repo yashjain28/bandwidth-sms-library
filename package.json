@@ -1,0 +1,42 @@
+{
+  "name": "bandwidth-sms-library",
+  "version": "1.0.0",
+  "description": "Bandwidth RESTful SMS Library",
+  "main": "code/libraries/BandwidthSMSLib",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clearblade/bandwidth-sms-library.git"
+  },
+  "asset_types": [
+    "Code Libraries"
+  ],
+  "keywords": [
+    "email",
+    "bandwidth",
+    "http",
+    "sms",
+    "send",
+    "notify",
+    "notifications"
+  ],
+  "prog_lang": [
+    "Javascript"
+  ],
+  "clouds": [],
+  "things": [],
+  "domains": [],
+  "protocols": [
+    "http",
+    "REST"
+  ],
+  "gateways": [],
+  "author": "Yash Jain <community@clearblade.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/clearblade/bandwidth-sms-library/issues"
+  },
+  "homepage": "https://github.com/clearblade/bandwidth-sms-library#readme",
+  "dependencies": [],
+  "image_url": "https://raw.githubusercontent.com/clearblade/bandwidth-sms-library/master/banner.png",
+  "private": false
+}

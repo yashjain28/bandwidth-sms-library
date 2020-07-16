@@ -1,0 +1,7 @@
+{
+    "api": "",
+    "dependencies": "http",
+    "description": "This is an integration with bandwidth messaging library",
+    "name": "BandwidthSMSLib",
+    "visibility": "system"
+}

@@ -1,0 +1,9 @@
+{
+    "auth": true,
+    "description": "",
+    "messaging_url": "community.clearblade.com:1883",
+    "name": "bandwidth-sms-library",
+    "platform_url": "https://community.clearblade.com",
+    "system_key": "ba90aff00b9299db9ef49788ed8401",
+    "system_secret": "BA90AFF00BA8D593EEB6DEB0C5C001"
+}

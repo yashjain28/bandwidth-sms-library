@@ -1,0 +1,7 @@
+{
+    "api": "",
+    "dependencies": "",
+    "description": "This library stores constants required for BandwidthSMSLib",
+    "name": "BandwidthConfig",
+    "visibility": "system"
+}
