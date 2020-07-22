@@ -95,8 +95,9 @@ Sends a text message using Bandwidth's REST API.
 
 **Kind**: global typedef  
 
+
 | Param | Type | Description |
-| --- | --- | --- |
+| :--- | :--- | :--- |
 | APITOKEN | <code>string</code> | Bandwidth API apiToken ex. "BC218b72987d86855a5adb921370115a20" |
 | APISECRET | <code>string</code> | Bandwidth API apiSecret ex. "4579ac6ba4fae7b452c03c64aeae40e7" |
 | ORIGIN_NUMBER | <code>string</code> | Origin phone number of text message, ex "+15127132783" |
