@@ -38,5 +38,8 @@
   "homepage": "https://github.com/clearblade/bandwidth-sms-library#readme",
   "dependencies": [],
   "image_url": "https://raw.githubusercontent.com/clearblade/bandwidth-sms-library/master/banner.png",
-  "private": false
+  "private": false,
+  "devDependencies": {
+    "jsdoc-to-markdown": "^4.0.1"
+  }
 }
