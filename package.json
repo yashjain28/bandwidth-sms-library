@@ -5,7 +5,7 @@
   "main": "code/libraries/BandwidthSMSLib",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/clearblade/bandwidth-sms-library.git"
+    "url": "git+https://github.com/yashjain28/bandwidth-sms-library.git"
   },
   "asset_types": [
     "Code Libraries"
@@ -33,11 +33,11 @@
   "author": "Yash Jain <community@clearblade.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/clearblade/bandwidth-sms-library/issues"
+    "url": "https://github.com/yashjain28/bandwidth-sms-library/issues"
   },
-  "homepage": "https://github.com/clearblade/bandwidth-sms-library#readme",
+  "homepage": "https://github.com/yashjain28/bandwidth-sms-library#readme",
   "dependencies": [],
-  "image_url": "https://raw.githubusercontent.com/clearblade/bandwidth-sms-library/master/banner.png",
+  "image_url": "https://raw.githubusercontent.com/yashjain28/bandwidth-sms-library/master/banner.png",
   "private": false,
   "devDependencies": {
     "jsdoc-to-markdown": "^4.0.1"
